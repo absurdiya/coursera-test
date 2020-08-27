@@ -1,2 +1,2 @@
 # coursera-test
-Coursera test repo
+Coursera test repository for 'HTML/CSS/JavaScript for Web Developers'

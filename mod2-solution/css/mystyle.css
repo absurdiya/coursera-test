@@ -20,11 +20,12 @@ h2{
 	position: absolute;
 	top:0;
 	right:0;
-	width: 100px;
+	width: 120px;
 	text-align: center;
 	padding: 2px;
 	border-left: 1px solid black;
 	border-bottom: 1px solid black;
+	
 	}
 p{
 	text-align: justify;
@@ -45,7 +46,7 @@ p{
 	}
 
 
-
+/***********Media Queries*******/
 @media(min-width: 992px){
 	.largedevice{
 			float: left;
